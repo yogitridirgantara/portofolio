@@ -110,8 +110,8 @@ export default function Home() {
 							className="bg-gray-100 rounded-lg p-6 grid grid-cols-1 sm:grid-cols-2 gap-3 place-items-center hover:scale-105 transition-transform "
 							data-aos="fade-right"
 						>
-							<img
-								src="/img-2.png"
+							<Image
+								src="/image-2.png"
 								alt=""
 								width={150}
 								height={150}
@@ -133,7 +133,7 @@ export default function Home() {
 							className="bg-gray-100 rounded-lg p-6 grid grid-cols-1 sm:grid-cols-2 gap-3 place-items-center hover:scale-105 transition-transform "
 							data-aos="fade-left"
 						>
-							<img
+							<Image
 								src="/img-3.png"
 								alt=""
 								width={150}
@@ -156,7 +156,7 @@ export default function Home() {
 							className="bg-gray-100 rounded-lg p-6 grid grid-cols-1 sm:grid-cols-2 gap-3 place-items-center hover:scale-105 transition-transform "
 							data-aos="fade-right"
 						>
-							<img
+							<Image
 								src="/img-1.png"
 								alt=""
 								width={150}
@@ -179,7 +179,7 @@ export default function Home() {
 							className="bg-gray-100 rounded-lg p-6 grid grid-cols-1 sm:grid-cols-2 gap-3 place-items-center hover:scale-105 transition-transform "
 							data-aos="fade-left"
 						>
-							<img
+							<Image
 								src="/img-4.png"
 								alt=""
 								width={150}
@@ -202,7 +202,7 @@ export default function Home() {
 							className="bg-gray-100 rounded-lg p-6 grid grid-cols-1 sm:grid-cols-2 gap-3 place-items-center hover:scale-105 transition-transform "
 							data-aos="fade-right"
 						>
-							<img
+							<Image
 								src="/img (1).png"
 								alt=""
 								width={150}
@@ -225,7 +225,7 @@ export default function Home() {
 							className="bg-gray-100 rounded-lg p-6 grid grid-cols-1 sm:grid-cols-2 gap-3 place-items-center hover:scale-105 transition-transform "
 							data-aos="fade-left"
 						>
-							<img
+							<Image
 								src="/img (2).png"
 								alt=""
 								width={150}
@@ -248,7 +248,7 @@ export default function Home() {
 							className="bg-gray-100 rounded-lg p-6 grid grid-cols-1 sm:grid-cols-2 gap-3 place-items-center hover:scale-105 transition-transform "
 							data-aos="fade-right"
 						>
-							<img
+							<Image
 								src="/img (3).png"
 								alt=""
 								width={150}
@@ -271,7 +271,7 @@ export default function Home() {
 							className="bg-gray-100 rounded-lg p-6 grid grid-cols-1 sm:grid-cols-2 gap-3 place-items-center hover:scale-105 transition-transform "
 							data-aos="fade-left"
 						>
-							<img
+							<Image
 								src="/img (4).png"
 								alt=""
 								width={150}
@@ -306,7 +306,7 @@ export default function Home() {
 					<div className="place-items-center" data-aos="zoom-in">
 						<ul className="grid grid-cols-2 sm:grid-cols-5 gap-3 place-items-center">
 							<li className="text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./ps.png"
 									alt=""
 									width={50}
@@ -315,7 +315,7 @@ export default function Home() {
 								Photoshop
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./figma.png"
 									alt=""
 									width={50}
@@ -324,7 +324,7 @@ export default function Home() {
 								Figma
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./ai.png"
 									alt=""
 									width={50}
@@ -333,7 +333,7 @@ export default function Home() {
 								Illustrator
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./coreldraw.png"
 									alt=""
 									width={50}
@@ -342,7 +342,7 @@ export default function Home() {
 								Coreldraw
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./canva.png"
 									alt=""
 									width={50}
@@ -351,7 +351,7 @@ export default function Home() {
 								Canva
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./next-js.png"
 									alt=""
 									width={50}
@@ -360,7 +360,7 @@ export default function Home() {
 								Next Js
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./node_js.png"
 									alt=""
 									width={50}
@@ -369,7 +369,7 @@ export default function Home() {
 								Node Js
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./tailwind.png"
 									alt=""
 									width={50}
@@ -378,7 +378,7 @@ export default function Home() {
 								Tailwind CSS
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
-								<img
+								<Image
 									src="./php.png"
 									alt=""
 									width={50}
