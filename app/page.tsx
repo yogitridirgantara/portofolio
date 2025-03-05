@@ -122,7 +122,7 @@ export default function Home() {
 									Desain ini merupakan desain ucapan
 									selamat terhadap seorang dosen atas
 									dilantiknya sebagai kepala CDC
-									Universitas Ma'soem
+									Universitas Masoem
 								</p>
 								<h3 className="bg-gray-950 text-gray-100 text-center text-[12px] md:text-[16px] rounded-xl mt-4 w-32 place-items-center">
 									Photoshop
@@ -145,7 +145,7 @@ export default function Home() {
 									Desain ini merupakan desain ucapan
 									terimakasih terhadap seorang dosen
 									atas dedikasinya menjadi kepala CDC
-									Universitas Ma'soem
+									Universitas Masoem
 								</p>
 								<h3 className="bg-gray-950 text-gray-100 text-center text-[12px] md:text-[16px] rounded-xl mt-4 w-32">
 									Photoshop
@@ -190,7 +190,7 @@ export default function Home() {
 								<p className="text-gray-950 font-sans font-medium text-[12px] md:text-[16px]">
 									Desain ini merupakan desain flyer
 									mengenai informasi psikotest
-									mahasiswa Universitas Ma'soem
+									mahasiswa Universitas Masoem
 									tingkat 1
 								</p>
 								<h3 className="bg-gray-950 text-gray-100 text-center text-[12px] md:text-[16px] rounded-xl mt-4 w-32">
@@ -407,7 +407,7 @@ export default function Home() {
 						>
 							<div className="flex flex-col justify-start items-start mt-2">
 								<h3 className="bg-gray-950 text-gray-100 text-[12px] md:text-[16px] rounded-md w-56 p-2 place-items-center font-bold">
-									CDC Universitas Ma'soem
+									CDC Universitas Masoem
 								</h3>
 								<h3 className="text-gray-100 font-sans font-bold text-[12px] md:text-[16px] mt-4 font">
 									Design Content Operator
