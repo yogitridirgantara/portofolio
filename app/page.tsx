@@ -83,12 +83,12 @@ export default function Home() {
 						Saya aktif membagikan wawasan dan inspirasi desain
 						di media sosial saya, termasuk Instagram{""}
 						<a
-							href="https://www.instagram.com/gistudios"
+							href="https://www.instagram.com/gistudios__"
 							className="text-blue-500 font-semibold hover:underline"
 							target="_blank"
 							rel="noopener noreferrer"
 						>
-							@gistudios
+							@gistudios__
 						</a>
 						. Jangan ragu untuk menghubungi saya jika Anda
 						membutuhkan jasa desain atau pengembangan web!
