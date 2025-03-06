@@ -111,7 +111,7 @@ export default function Home() {
 							data-aos="fade-right"
 						>
 							<Image
-								src="/image-2.png"
+								src="/images-2.png"
 								alt=""
 								width={150}
 								height={150}
@@ -134,7 +134,7 @@ export default function Home() {
 							data-aos="fade-left"
 						>
 							<Image
-								src="/img-3.png"
+								src="/images-3.png"
 								alt=""
 								width={150}
 								height={150}
@@ -157,7 +157,7 @@ export default function Home() {
 							data-aos="fade-right"
 						>
 							<Image
-								src="/img-1.png"
+								src="/images-1.png"
 								alt=""
 								width={150}
 								height={150}
@@ -180,7 +180,7 @@ export default function Home() {
 							data-aos="fade-left"
 						>
 							<Image
-								src="/img-4.png"
+								src="/images-4.png"
 								alt=""
 								width={150}
 								height={150}
@@ -203,7 +203,7 @@ export default function Home() {
 							data-aos="fade-right"
 						>
 							<Image
-								src="/img (1).png"
+								src="/images-5.png"
 								alt=""
 								width={150}
 								height={150}
@@ -211,10 +211,9 @@ export default function Home() {
 							/>
 							<div className="flex flex-col justify-center items-center text-center mt-2">
 								<p className="text-gray-950 font-sans font-medium text-[12px] md:text-[16px]">
-									Desain ini merupakan desain ucapan
-									selamat terhadap seorang dosen yang
-									menjadi guru besar di universitas
-									padjadjaran
+									Desain ini merupakan desain tentang
+									berharganya sebuah hijab sebagai
+									pelindung seorang wanita
 								</p>
 								<h3 className="bg-gray-950 text-gray-100 text-center text-[12px] md:text-[16px] rounded-xl mt-4 w-32">
 									Figma
@@ -226,7 +225,7 @@ export default function Home() {
 							data-aos="fade-left"
 						>
 							<Image
-								src="/img (2).png"
+								src="/images-7.png"
 								alt=""
 								width={150}
 								height={150}
@@ -234,10 +233,9 @@ export default function Home() {
 							/>
 							<div className="flex flex-col justify-center items-center text-center mt-2">
 								<p className="text-gray-950 font-sans font-medium text-[12px] md:text-[16px]">
-									Desain ini merupakan desain ucapan
-									selamat terhadap seorang dosen yang
-									menjadi guru besar di universitas
-									padjadjaran
+									Desain ini merupakan desain
+									menampilkan style hijab dalam acara
+									atau kondisi apapun
 								</p>
 								<h3 className="bg-gray-950 text-gray-100 text-center text-[12px] md:text-[16px] rounded-xl mt-4 w-32">
 									Figma
@@ -249,7 +247,7 @@ export default function Home() {
 							data-aos="fade-right"
 						>
 							<Image
-								src="/img (3).png"
+								src="/images-6.png"
 								alt=""
 								width={150}
 								height={150}
@@ -257,10 +255,10 @@ export default function Home() {
 							/>
 							<div className="flex flex-col justify-center items-center text-center mt-2">
 								<p className="text-gray-950 font-sans font-medium text-[12px] md:text-[16px]">
-									Desain ini merupakan desain ucapan
-									selamat terhadap seorang dosen yang
-									menjadi guru besar di universitas
-									padjadjaran
+									Desain ini merupakan desain
+									mengenai dalil al-quran akan
+									pentingnya hijab bagi wanita untuk
+									melindungi dirinya
 								</p>
 								<h3 className="bg-gray-950 text-gray-100 text-center text-[12px] md:text-[16px] rounded-xl mt-4 w-32">
 									Figma
@@ -272,7 +270,7 @@ export default function Home() {
 							data-aos="fade-left"
 						>
 							<Image
-								src="/img (4).png"
+								src="/images-8.png"
 								alt=""
 								width={150}
 								height={150}
@@ -280,10 +278,10 @@ export default function Home() {
 							/>
 							<div className="flex flex-col justify-center items-center text-center mt-2">
 								<p className="text-gray-950 font-sans font-medium text-[12px] md:text-[16px]">
-									Desain ini merupakan desain ucapan
-									selamat terhadap seorang dosen yang
-									menjadi guru besar di universitas
-									padjadjaran
+									Desain ini merupakan desain daily
+									dari seorang muslimah dalam setiap
+									langkahnya menjadi bermakna dengan
+									hijab
 								</p>
 								<h3 className="bg-gray-950 text-gray-100 text-center text-[12px] md:text-[16px] rounded-xl mt-4 w-32">
 									Figma
@@ -307,7 +305,7 @@ export default function Home() {
 						<ul className="grid grid-cols-2 sm:grid-cols-5 gap-3 place-items-center">
 							<li className="text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./ps.png"
+									src="/ps.png"
 									alt=""
 									width={50}
 									height={50}
@@ -316,7 +314,7 @@ export default function Home() {
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./figma.png"
+									src="/figma.png"
 									alt=""
 									width={50}
 									height={50}
@@ -325,7 +323,7 @@ export default function Home() {
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./ai.png"
+									src="/ai.png"
 									alt=""
 									width={50}
 									height={50}
@@ -334,7 +332,7 @@ export default function Home() {
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./coreldraw.png"
+									src="/coreldraw.png"
 									alt=""
 									width={50}
 									height={50}
@@ -343,7 +341,7 @@ export default function Home() {
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./canva.png"
+									src="/canva.png"
 									alt=""
 									width={50}
 									height={50}
@@ -352,7 +350,7 @@ export default function Home() {
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./next-js.png"
+									src="/next-js.png"
 									alt=""
 									width={50}
 									height={50}
@@ -361,7 +359,7 @@ export default function Home() {
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./node_js.png"
+									src="/node_js.png"
 									alt=""
 									width={50}
 									height={50}
@@ -370,7 +368,7 @@ export default function Home() {
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./tailwind.png"
+									src="/tailwind.png"
 									alt=""
 									width={50}
 									height={50}
@@ -379,7 +377,7 @@ export default function Home() {
 							</li>
 							<li className=" text-center rounded-lg p-4 hover:scale-110 place-items-center">
 								<Image
-									src="./php.png"
+									src="/php.png"
 									alt=""
 									width={50}
 									height={50}
